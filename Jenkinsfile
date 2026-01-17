@@ -13,7 +13,7 @@ pipeline {
       steps {
         echo "WORKSPACE is: ${env.WORKSPACE}"
         sh 'echo "Shell WORKSPACE is: $WORKSPACE"'
-        echo "THIS WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOORKS ***********************************"
+        echo "DEVELOOOOOOP ***********************************"
       }
     }
   }
